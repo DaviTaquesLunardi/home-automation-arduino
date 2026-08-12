@@ -64,5 +64,3 @@ Software Engineering Student @ PUCRS
 
 GitHub: [DaviTaquesLunardi](https://github.com/DaviTaquesLunardi)
 LinkedIn: [Davi Taques Lunardi](https://www.linkedin.com/in/Davi-Lunardi/)
-LinkedIn: [Davi Taques Lunardi](https://www.linkedin.com/in/davi-lunardi-b6458a422)
-
